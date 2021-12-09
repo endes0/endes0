@@ -1,5 +1,13 @@
 ### Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=endes0.endes0)
 
+I like breaking devices (and sometimes reverse engineering it), low-level programming, hardware design, data analysis and of course rust.
+
+Currently studying and working is some small projects(which I will publish... someday), also learning c++ and when I have free time rust🦀 and python🐍.
+
+![endes's GitHub stats](https://github-readme-stats.vercel.app/api?username=endes0&show_icons=true&theme=synthwave)
+<!-- https://github-profile-trophy.vercel.app/?username=endes0 -->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endes0&layout=compact&theme=synthwave) -->
 <!--
 **endes0/endes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
