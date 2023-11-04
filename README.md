@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=endes0.endes0)
+[![Visitors](https://hits.dwyl.com/endes0/endes0.svg?style=flat&show=unique)](http://hits.dwyl.com/endes0/endes0)
 
 I like breaking devices (and sometimes reverse engineering it), low-level programming, hardware design, data analysis ...
 
