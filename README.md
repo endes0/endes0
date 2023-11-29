@@ -3,7 +3,7 @@
 
 I like breaking devices (and sometimes reverse engineering it), low-level programming, hardware design, data analysis ...
 
-Currently studying and working in some small projects(which I will publish... someday), also learning c++ and python🐍.
+Currently studying and working in some small projects(which I will publish... someday), also learning Rust and python🐍.
 
 ![endes's GitHub stats](https://github-readme-stats.vercel.app/api?username=endes0&show_icons=true&theme=synthwave)
 <!-- https://github-profile-trophy.vercel.app/?username=endes0 -->
